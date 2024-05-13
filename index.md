@@ -4,48 +4,23 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate in the [Linguistics Program](https://sc.edu/study/colleges_schools/artsandsciences/linguistics/index.php) at the [University of South Carolina](https://sc.edu). My research lies at the intersection of second language acquisition and cognitive neuroscience, with a focus on the processing of semantics and emotional prosody. I am co-advised by Drs. [Jiang Liu](https://sc.edu/study/colleges_schools/artsandsciences/dllc/our_people/liu_jiang.php) and [Rutvik Desai](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/desai_rutvik.php), and I am a graduate research assistant in the [Desai Lab](https://sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/labs/desai_lab/index.php/).
+I am a Ph.D. candidate in the [Linguistics Program](https://sc.edu/study/colleges_schools/artsandsciences/linguistics/index.php) at the [University of South Carolina](https://sc.edu) under [Dr. Amit Almor](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/almor_amit.php). My research focuses the relationshio between linguistic framing and reasoning. Specifically, I am investigating in the ways that the semantic-syntactic features of animacy, agency, and subjecthood change reader perceptions of AI responsibility. My Dissertation is entitled "The Effects of Anthropomorphic Linguistic Framing on the Online Sentence Processing of Texts about AI".
 
-My dissertation investigates how native and non-native speakers perceive emotional prosody in a tonal language—Mandarin Chinese, and examines how semantics influence the emotional prosody processing of L1 and L2 Chinese speakers, and utilizes [fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging) to elucidate whether native speakers and L2 learners use similar brain mechanisms to process semantics and emotional prosody in Mandarin Chinese words and sentences. 
+<b> Dissertation Abstract </b>
+Linguistic framing effects show that subtle differences in how information is presented can dramatically change how readers evaluate and respond to the situation depicted in a text, even when the propositional content is unchanged (Thibodeau & Boroditsky, 2011; McGlynn & McGlone, 2019). This is especially true with regards to the assignment of agency (Fausey & Boroditsky, 2010; Dragojevic et al., 2010). Grammatical and lexical resources such as passivization (Recanati, 2002) and lexical (Lakoff & Ferguson, 2006; Thibodeau & Boroditsky, 2011) and grammatical metaphors (e.g., placing a non-agent in subject position of an active clause, Devrim, 2015; McGlynn & McGlone, 2019) even allow grammatical agency to be assigned to non-agents resulting in linguistic anthropomorphism (i.e., the ascription of human characteristics to non-humans). A variety of studies using offline judgment measures have shown that linguistic framing affects how participants reason about agency and responsibility. However, insufficient research has investigated 1) the effects of linguistic framing on online text processing and 2) how this linguistic phenomenon interacts with the psychological phenomenon of anthropomorphism (Heider & Simmel, 1944; Epley et al., 2007). Regarding the first question—because extant research on linguistic framing typically relies on judgement measures which are collected after participants read a text, it is not clear whether the effect occurs online during linguistic processing or only afterwards during deliberate reasoning. Regarding the second question—different theories of anthropomorphism (Epley et al., 2007; Dennett, 1987) make different predictions about the extent to which anthropomorphic linguistic framing will cause readers to make automatic elaborative inferences about the target’s goals, beliefs, etc. Specifically, we will investigate both of these issues in the context of AI and AI large language models (LLMs) as these models are hypothesized to be especially likely to be anthropomorphized (Mitchell & Krakauer, 2023). Therefore, the proposed dissertation project will fill these gaps in the literature by using an eye-tracking reading paradigm to investigate how anthropomorphic linguistic framing affects the online processing of texts about LLMs compared to other AIs, and computer programs.
+
 
 ## News
 
-- **[March, 2024]** I have been awarded the [Dr. Richard Walker Memorial Endowed Fellowship](https://sc.edu/study/colleges_schools/artsandsciences/walker_institute/research/student_scholarships_and_grants/index.php).
-- **[March, 2024]** Our abstract comparing emotional prosody perception in novice and advanced L2 Chinese learners has been accepted for [HSP 37](https://hsp2024.github.io).
-- **[February, 2024]** A co-authored paper on English prosodic focus marking has been published in the [Journal of Speech, Language, and Hearing Research](https://doi.org/10.1044/2023_JSLHR-23-00508).
-- **[December, 2023]** I have been invited for a talk at the special session on second language acquisition for [LCUGA 2024](https://www.linguistics.uga.edu/lcuga-2024).
-- **[October, 2023]** Our abstract about semantic congruence effects on emotional prosody perception has been accepted for [FPM 2023](https://lin.ufl.edu/florida-psycholinguistics-meeting-2023/).
-- **[July, 2023]** Our abstract comparing the semantic effects on emotional prosody perception in L1 and L2 speakers has been accepted for BUCLD 48, and I received the Paula Menyuk Travel Award.
+
 
 ## Grants
 
-- **2023-2025**, **National Science Foundation Doctoral Dissertation Research Improvement Grant (NSF-DDRIG)**, [BCS-2234914](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2234914&HistoricalAwards=false) ("Doctoral Dissertation Research: The semantic effect on the processing of emotional prosody in a tone language: A neurolinguistic study"), co-PI,  PI: Jiang Liu, co-PI: Rutvik Desai, USD 17,780.
-- **2022-2023**, **University of South Carolina SPARC Graduate Research Grant**, Proposal #120700-22-59283 ("Bridging meaning and sound: The effects of semantics on emotional prosody processing in Mandarin Chinese words and sentences"), PI, mentors: Jiang Liu, Rutvik Desai, USD 4,938.
-- **2020-2021**, **University of South Carolina Graduate Teaching Resource Development Grant** (for course enrichment of CHIN121: Elementary Mandarin Chinese), USD 400.
-- **2020-2021**, **University of South Carolina Graduate Teaching Resource Development Grant** (for course enrichment of CHIN321: Advance Mandarin Chinese), USD 400.
+
   
 ## Publications
 
-- **Xiao, C.**, Arheix-Parras, S., Desai, R.H. (in preparation). Semantic neighborhood effects with anterior temporal lobe stimulation.
-- **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (in preparation). Knowing is feeling: The role of semantic valence in emotional prosody perception for L2 Chinese learners. [Preregistration](https://doi.org/10.17605/OSF.IO/7JTWX)
-- **Xiao, C.**, & Liu, J. (*in revision*). Semantic effects on the perception of emotional prosody in native and non-native Chinese speakers.
-- **Xiao, C.**, & Liu, J. (*in revision*). The perception of emotional prosody in Mandarin Chinese words and sentences.
-- Wang, B. X., Chen, S., Zhou, F., Liu, J., **Xiao, C.**, Chan, A., & Tang, T. (2024). English Prosodic Focus Marking by Cantonese Trilingual Children with and without Autism Spectrum Disorder. *Journal of Speech, Language, and Hearing Research, 67*(3), 782-801. [Link](https://doi.org/10.1044/2023_JSLHR-23-00508)
-- Liu, J., & **Xiao, C.**(2021). Tone category learning should serve tone word learning: an experiment of integrating pronunciation teaching in L2 Chinese curriculum. In Edited Volume *The acquisition of Chinese as a second language pronunciation: Segments and prosody*. Edited by Yang, Chunsheng: Springer. [Link](https://doi.org/10.1007/978-981-15-3809-4_6)
+
 
 ## Teaching Experience
 
-- **Instructor of Record, Linguistics Program**, University of South Carolina
-  - Spring 2023, LING 301/ENGL 389: The English Language
-  - Fall 2022, LING 101: Introduction to Language 
-- **Instructor of Record, Department of Languages, Literatures and Cultures**, University of South Carolina
-  - Spring 2022, CHIN 222: Intermediate Mandarin Chinese II
-  - Fall 2022, CHIN 221: Intermediate Mandarin Chinese I
-  - Spring 2021, CHIN 122: Basic Proficiency Mandarin Chinese
-  - Fall 2020, CHIN 121: Elementary Mandarin Chines
-  - Spring 2020, CHIN 322: Advance Mandarin Chinese II
-  - Fall 2019, CHIN 321: Advance Mandarin Chinese I
-- **Guest Lecturer, Linguistics Program**, University of South Carolina
-  - Spring 2023, LING 300: Introduction to Language Sciences
-- **Tutor, International Accelerator Program**, University of South Carolina
-  - Fall 2019–Spring 2020, English as a second language (ESL) Tutor
