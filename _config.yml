@@ -1,21 +1,21 @@
 # Basic Information 
-title: Cheng Xiao
-position: Ph.D. candidate
+title: Dawson Petersen
+position: Ph.D. Candidate
 affiliation: University of South Carolina
-email: cxiao@email.sc.edu
+email: DHP1@email.sc.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Cheng Xiao, emotional prosody, psycholinguistics, fMRI.
-description: This is Cheng's personal website
-canonical: https://chengxiaocx.github.io
+keywords: Dawson Petersen, anthropomorphism, UofSC, University of South Carolina, psycholinguistics, linguistics, psychology, pragmatics, grammatical metaphor.
+description: This is Dawson's personal website
+canonical: https://dawson_petersen.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-#google_scholar: https://scholar.google.com/
-cv_link: ./assets/Xiao.pdf
-github_link: https://github.com/chengxiaocx
-#linkedin: https://www.linkedin.com/
+#google_scholar: https://scholar.google.com/citations?user=MZqxWLQAAAAJ&hl=en
+cv_link: ./assets/CV.pdf
+github_link: https://github.com/Dawson-Petersen
+
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -25,7 +25,7 @@ favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
