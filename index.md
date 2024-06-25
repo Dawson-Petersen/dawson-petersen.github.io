@@ -55,7 +55,7 @@ English 102: Composition and Rhetoric, _University of South Carolina_
 
 ## Conference and Workshop Organizing
 Lead Workshop Organizer \
-_Experimental Pragmatics: Bridging Theory and Praxis_ \
+<a href="https://americanpragmaticsassociation.org/xprag-workshop/"> _Experimental Pragmatics: Bridging Theory and Praxis_ </a> \
 with invited speakers: Mira Ariel and Anna Papafragou \
 American Pragmatics Association, November 11, 2023
 
