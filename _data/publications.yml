@@ -1,9 +1,13 @@
 main:
 
   - title: Linguistic framing affects moral responsibility assignments towards AIs and their creators. 
-    authors: YPetersen, D., Almor, A. & Shalin, V. L.
+    authors: Petersen, D., Almor, A. & Shalin, V. L.
     conference_short: AIL4
     conference: Agency and Intentions in Language 4
     pdf: ./assets/AIL4 Proceedings Paper.pdf
 
+  - title: Anthropomorphism, not depiction, explains interaction with social robots. 
+    authors: Petersen, D. & Almor, A.
+    Journal: Behavioral and Brain Sciences, 46.
+    pdf: https://doi.org/10.1017/S0140525X22001698
 
