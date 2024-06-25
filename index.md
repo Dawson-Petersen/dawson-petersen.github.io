@@ -9,7 +9,6 @@ layout: homepage
     text-indent: -20px;
   }
 </style>
-```
 
 ## About Me
 
