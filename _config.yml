@@ -12,9 +12,8 @@ canonical: https://dawson_petersen.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-#google_scholar: https://scholar.google.com/citations?user=MZqxWLQAAAAJ&hl=en
+google_scholar: https://scholar.google.com/citations?user=MZqxWLQAAAAJ&hl=en
 cv_link: ./assets/CV.pdf
-google_scholar: https://scholar.google.com/citations?user=MZqxWLQAAAAJ&hl=en&oi=ao
 github_link: https://github.com/Dawson-Petersen
 
 
