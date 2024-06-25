@@ -31,10 +31,10 @@ Petersen, D. (2018). Embodied simulation in response to semantic priming [Unpubl
 
 ## Courses Taught
 Linguistics 300: Introduction to Language Sciences, _University of South Carolina_
-Upper level survey of Linguistics, Cross-listed in Psychology and Anthropology
+<p>Upper level survey of Linguistics, Cross-listed in Psychology and Anthropology</p>
 
 Linguistics 101: Introduction to Language, _University of South Carolina_
-Introductory level survey of Linguistics
+<p>Introductory level survey of Linguistics</p>
 
 English 101: Critical Reading and Composition, _University of South Carolina_
 
