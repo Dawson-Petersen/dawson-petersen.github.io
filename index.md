@@ -2,12 +2,14 @@
 layout: homepage
 ---
 
+```html
 <style>
   .hanging-indent {
     padding-left: 20px;
     text-indent: -20px;
   }
 </style>
+```
 
 ## About Me
 
