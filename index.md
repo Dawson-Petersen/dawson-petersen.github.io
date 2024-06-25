@@ -1,7 +1,9 @@
 ---
 layout: homepage
 ---
+
 <link rel="stylesheet" type="text/css" href="styles.css">
+
 ## About Me
 
 I am a Ph.D. candidate in the [Linguistics Program](https://sc.edu/study/colleges_schools/artsandsciences/linguistics/index.php) at the [University of South Carolina](https://sc.edu) under [Dr. Amit Almor](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/almor_amit.php). My research focuses the relationshio between linguistic framing and reasoning. Specifically, I am investigating in the ways that the semantic-syntactic features of animacy, agency, and subjecthood change reader perceptions of AI responsibility. My Dissertation is entitled "The Effects of Anthropomorphic Linguistic Framing on the Online Sentence Processing of Texts about AI".
