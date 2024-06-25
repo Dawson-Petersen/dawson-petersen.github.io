@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-<link rel="stylesheet" type="text/css" href="styles.css">
+<link rel="stylesheet" type="text/css" href="styles.scss">
 
 ## About Me
 
