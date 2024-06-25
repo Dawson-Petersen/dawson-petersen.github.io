@@ -32,12 +32,15 @@ $4,800
   
 ## Publications
 
-Petersen, D., Almor, A. & Shalin, V. L. (2024). Linguistic framing affects moral responsibility assignments towards AIs and their creators. Proceedings of Agency and Intentions in Language 4. <a href="https://ail-workshop.github.io/AIL4-Workshop/program.html"> https://ail-workshop.github.io/AIL4-Workshop/program.html</a> \
+Petersen, D., Almor, A. & Shalin, V. L. (2024). Linguistic framing affects moral responsibility assignments towards AIs and their creators. Proceedings of Agency and Intentions in Language 4. \
+<a href="https://ail-workshop.github.io/AIL4-Workshop/program.html"> https://ail-workshop.github.io/AIL4-Workshop/program.html</a> \
 <a href="./assets/AIL4 Proceedings Paper.pdf">AIL4 Proceedings Paper.pdf</a> 
 
-Petersen, D. & Almor, A. (2023). Anthropomorphism, not depiction, explains interaction with social robots. [Peer commentary on the paper “Social robots as depictions of social agents” by H. H. Clark & K. Fischer]. _Behavioral and Brain Sciences, 46_.  <a href="https://doi.org/10.1017/S0140525X22001698"> https://doi.org/10.1017/S0140525X22001698</a>
+Petersen, D. & Almor, A. (2023). Anthropomorphism, not depiction, explains interaction with social robots. [Peer commentary on the paper “Social robots as depictions of social agents” by H. H. Clark & K. Fischer]. _Behavioral and Brain Sciences, 46_. \
+<a href="https://doi.org/10.1017/S0140525X22001698"> https://doi.org/10.1017/S0140525X22001698</a>
 
-Petersen, D. (2022). The role of force dynamic schemas in the comprehension of causal language [MA thesis]. <a href="https://scholarcommons.sc.edu/etd/6800/"> https://scholarcommons.sc.edu/etd/6800/</a> 
+Petersen, D. (2022). The role of force dynamic schemas in the comprehension of causal language [MA thesis]. \
+<a href="https://scholarcommons.sc.edu/etd/6800/"> https://scholarcommons.sc.edu/etd/6800/</a> 
 
 Petersen, D. (2018). Embodied simulation in response to semantic priming [Unpublished undergraduate thesis]. 
 
