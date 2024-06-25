@@ -17,6 +17,17 @@ Linguistic framing effects show that subtle differences in how information is pr
 
 ## Grants
 
+Doctoral Dissertation Improvement Research Grant \
+NSF Linguistics Program, 2024 \
+$12,000
+
+Russell J. and Dorothy S. Bilinski Dissertation Fellowship \
+University of South Carolina, 2024 \
+$40,000
+
+SPARC Graduate Research Grant \
+University of South Carolina, 2024 \
+$4,800
 
   
 ## Publications
