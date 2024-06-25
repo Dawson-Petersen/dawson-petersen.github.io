@@ -1,10 +1,3 @@
-<style>
-  .hanging-indent {
-      padding-left: 2em;
-      text-indent: -2em;
-  }
-</style>
-
 ---
 layout: homepage
 ---
@@ -27,7 +20,7 @@ Linguistic framing effects show that subtle differences in how information is pr
 
   
 ## Publications
-<div class="hanging-indent">
+<div <div style="padding-left: 2em; text-indent: -2em;">
 <p> Petersen, D., Almor, A. & Shalin, V. L. (2024). Linguistic framing affects moral responsibility assignments towards AIs and their creators. Proceedings of Agency and Intentions in Language 4. <a href="https://ail-workshop.github.io/AIL4-Workshop/program.html"> https://ail-workshop.github.io/AIL4-Workshop/program.html</a> <a href="./assets/AIL4 Proceedings Paper.pdf">AIL4 Proceedings Paper.pdf</a> </p>
 
 <p> Petersen, D. & Almor, A. (2023). Anthropomorphism, not depiction, explains interaction with social robots. [Peer commentary on the paper “Social robots as depictions of social agents” by H. H. Clark & K. Fischer]. Behavioral and Brain Sciences, 46.  <a href="https://doi.org/10.1017/S0140525X22001698"> https://doi.org/10.1017/S0140525X22001698</a> </p>
