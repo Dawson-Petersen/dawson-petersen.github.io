@@ -21,14 +21,29 @@ Linguistic framing effects show that subtle differences in how information is pr
   
 ## Publications
 <div style="padding-left: 2em; text-indent: -2em;">
-<p> Petersen, D., Almor, A. & Shalin, V. L. (2024). Linguistic framing affects moral responsibility assignments towards AIs and their creators. Proceedings of Agency and Intentions in Language 4. <a href="https://ail-workshop.github.io/AIL4-Workshop/program.html"> https://ail-workshop.github.io/AIL4-Workshop/program.html</a> <a href="./assets/AIL4 Proceedings Paper.pdf">AIL4 Proceedings Paper.pdf</a> </p>
+Petersen, D., Almor, A. & Shalin, V. L. (2024). Linguistic framing affects moral responsibility assignments towards AIs and their creators. Proceedings of Agency and Intentions in Language 4. <a href="https://ail-workshop.github.io/AIL4-Workshop/program.html"> https://ail-workshop.github.io/AIL4-Workshop/program.html</a> <a href="./assets/AIL4 Proceedings Paper.pdf">AIL4 Proceedings Paper.pdf</a>
 
-<p> Petersen, D. & Almor, A. (2023). Anthropomorphism, not depiction, explains interaction with social robots. [Peer commentary on the paper “Social robots as depictions of social agents” by H. H. Clark & K. Fischer]. Behavioral and Brain Sciences, 46.  <a href="https://doi.org/10.1017/S0140525X22001698"> https://doi.org/10.1017/S0140525X22001698</a> </p>
+Petersen, D. & Almor, A. (2023). Anthropomorphism, not depiction, explains interaction with social robots. [Peer commentary on the paper “Social robots as depictions of social agents” by H. H. Clark & K. Fischer]. _Behavioral and Brain Sciences, 46_.  <a href="https://doi.org/10.1017/S0140525X22001698"> https://doi.org/10.1017/S0140525X22001698</a>
 
-<p> Petersen, D. (2022). The role of force dynamic schemas in the comprehension of causal language [MA thesis]. <a href="https://scholarcommons.sc.edu/etd/6800/"> https://scholarcommons.sc.edu/etd/6800/</a> </p>
+Petersen, D. (2022). The role of force dynamic schemas in the comprehension of causal language [MA thesis]. <a href="https://scholarcommons.sc.edu/etd/6800/"> https://scholarcommons.sc.edu/etd/6800/</a> 
 
-<p> Petersen, D. (2018). Embodied simulation in response to semantic priming [Unpublished undergraduate thesis]. </p>
+Petersen, D. (2018). Embodied simulation in response to semantic priming [Unpublished undergraduate thesis]. 
 </div>
 
-## Teaching Experience
+## Courses Taught
+Linguistics 300: Introduction to Language Sciences, _University of South Carolina_
+Upper level survey of Linguistics, Cross-listed in Psychology and Anthropology
+
+Linguistics 101: Introduction to Language, _University of South Carolina_
+Introductory level survey of Linguistics
+
+English 101: Critical Reading and Composition, _University of South Carolina_
+
+English 102: Composition and Rhetoric, _University of South Carolina_
+
+## Conference and Workshop Organizing
+Lead Workshop Organizer 
+Experimental Pragmatics: Bridging Theory and Praxis
+with invited speakers: Mira Ariel and Anna Papafragou
+American Pragmatics Association, November 11, 2023
 
