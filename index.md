@@ -2,6 +2,13 @@
 layout: homepage
 ---
 
+<style>
+  .hanging-indent {
+    padding-left: 20px;
+    text-indent: -20px;
+  }
+</style>
+
 ## About Me
 
 I am a Ph.D. candidate in the [Linguistics Program](https://sc.edu/study/colleges_schools/artsandsciences/linguistics/index.php) at the [University of South Carolina](https://sc.edu) under [Dr. Amit Almor](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/almor_amit.php). My research focuses the relationshio between linguistic framing and reasoning. Specifically, I am investigating in the ways that the semantic-syntactic features of animacy, agency, and subjecthood change reader perceptions of AI responsibility. My Dissertation is entitled "The Effects of Anthropomorphic Linguistic Framing on the Online Sentence Processing of Texts about AI".
@@ -21,7 +28,7 @@ Linguistic framing effects show that subtle differences in how information is pr
   
 ## Publications
 
-<p style="padding-left: 20px; text-indent: -20px;">
+<p class="hanging-indent">
 Petersen, D., Almor, A. & Shalin, V. L. (2024). Linguistic framing affects moral responsibility assignments towards AIs and their creators. Proceedings of Agency and Intentions in Language 4. <a href="https://ail-workshop.github.io/AIL4-Workshop/program.html"> https://ail-workshop.github.io/AIL4-Workshop/program.html</a> <a href="./assets/AIL4 Proceedings Paper.pdf">AIL4 Proceedings Paper.pdf</a>
 </p>
 
