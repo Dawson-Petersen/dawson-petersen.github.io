@@ -12,7 +12,7 @@ Linguistic framing effects show that subtle differences in how information is pr
 
 
 ## News
-
+07/02/24 - I received the NSF Linguistics Program's Doctoral Dissertation Improvement Research Grant. 
 
 
 ## Grants
