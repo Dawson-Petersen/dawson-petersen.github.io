@@ -39,6 +39,7 @@ $4,800
 
   
 ## Publications
+Petersen, D. & Almor, A. (In Press.). Linguistic framing affects moral responsibility assignments towards AIs and their creators. Frontiers in Psychology—Cognitive Science.
 
 Petersen, D., Almor, A. & Shalin, V. L. (2024). Linguistic framing affects moral responsibility assignments towards AIs and their creators. Proceedings of Agency and Intentions in Language 4. \
 <a href="https://ail-workshop.github.io/AIL4-Workshop/program.html"> https://ail-workshop.github.io/AIL4-Workshop/program.html</a> \
