@@ -14,7 +14,11 @@ Linguistic framing effects show that subtle differences in how information is pr
 Talmy argues that causal sentences are understood by reference to basic image schemas, such as Starting and Stopping. The current study employs a priming paradigm in which participants experience a force dynamic prime followed by self-paced reading of a sentence with a causative verb which referenced a compatible or incompatible force dynamic schema. In order to strengthen the priming manipulation, the primes used were short interactive 2D computer games created using Unity and the Unity Experiment Framework as primes (Brookes et al., 2019). In each game, participants had to either prevent or cause an object to move. Following the prime, participants read sentences that described events with the same or the opposite force dynamic schema. Sentences were presented region by region, and the response time for each region was recorded. I predicted that participants would respond more quickly when the target sentence matches the interactive force dynamic prime. However, the results show no such priming effects, which suggests either that force dynamic schemas are not used in online sentence comprehension or that their influence is weak enough that an even stronger manipulation is required to uncover it.
 
 ## News
-09/12/24 - I received funding from the UofSC Graduate School to present my paper "Anthropomorphism Mediates the Algorithm Outrage Deficit" at the 65th meeting of the Psychonomic Society in New Yark City. 
+03/27/25 - I am presenting a poster entitled "Grammatical Metaphor Increases AI-Animacy Perception in Online Sentence Processing" at the Society for Human Sentence Processing in the University of Maryland.
+
+03/13/25 - My paper "Agentive linguistic framing affects responsibility assignments towards AIs and their creators" was provisionally accepted by [Frontiers in Psychology.](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1498958/abstract)
+
+09/12/24 - I received funding from the UofSC Graduate School to present my paper "Anthropomorphism Mediates the Algorithm Outrage Deficit" at the 65th meeting of the Psychonomic Society in New York City. 
 
 07/02/24 - I received the NSF Linguistics Program's Doctoral Dissertation Improvement Research Grant. 
 
