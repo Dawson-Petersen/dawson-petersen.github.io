@@ -42,7 +42,9 @@ $4,800
 
   
 ## Publications
-Petersen, D. & Almor, A. (2025). Agentive linguistic framing affects responsibility assignments towards AIs and their creators. Frontiers in Psychology—Cognitive Science, 16. DOI: 10.3389/fpsyg.2025.1498958
+Petersen, D. (2025). Anthropomorphism in language and thought: The effect of agentive linguistic framing on readers’ perceptions of AI animacy [Dissertation].
+
+Petersen, D. & Almor, A. (2025). Agentive linguistic framing affects responsibility assignments towards AIs and their creators. Frontiers in Psychology—Cognitive Science, 16. DOI: [10.3389/fpsyg.2025.1498958](https://doi.org/10.3389/fpsyg.2025.1498958)
 
 Petersen, D., Almor, A. & Shalin, V. L. (2024). Linguistic framing affects moral responsibility assignments towards AIs and their creators. Proceedings of Agency and Intentions in Language 4. \
 <a href="https://ail-workshop.github.io/AIL4-Workshop/program.html"> https://ail-workshop.github.io/AIL4-Workshop/program.html</a> \
