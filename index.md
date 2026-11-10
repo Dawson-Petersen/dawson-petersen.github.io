@@ -10,6 +10,14 @@ Dawson Petersen is a postdoctoral Fritz Fellow in Linguistics and Computer Scien
 Over the past decade, deep learning AI systems have gone from academic obscurity to near cultural centrality in the developed world. As these technologies become increasingly integrated into daily life, there is growing cause for concern about AI anthropomorphism—i.e., the perception of AIs as more human than they really are. Despite the potential risks, AI developers continue to market their technologies using agentive language that seems to be designed to encourage anthropomorphism. The current dissertation utilizes behavioral and eye-tracking methods to examine the relationship between agentive linguistic framing and AI anthropomorphism in both controlled judgments and automatic inferences. The results show that exposure to agentive linguistic framing can 1) increase the perceived responsibility of AIs for both negative and positive outcomes, 2) cause readers to see AIs as agents rather than objects, as evidenced by a decrease in negative agency bias, 3) and facilitate the processing of animate verbs with AI subjects. Overall, these findings show that agentive linguistic framing has a high risk of causing unconscious AI anthropomorphism, especially for readers with preexisting anthropomorphic beliefs. 
 
 ## News
+11/09/26 - My manuscript "Grammatical Agency Influences Online Perceptions of AI Animacy" was accepted for publication in [Cognitive Research: Principles and Implications](https://link.springer.com/journal/41235).
+
+11/05/26 - I delivered an invited talk "AI Anthropomorphism isn’t just AI Anthropomorphization" as part of the SAP UA Futures Expert Speaker Series.
+
+10/05/26 - My colleague, Nathan Schneider, delivered our poster presentation "Understanding AI Cases in the U.S. Courts" at [New Directions in Analyzing Text as Data](https://tada2026.org/).
+
+09/24/26 - My colleague, Eilat Herman, delivered our poster presentation "How Does Syntactic Context Modulate Restrictive Interpretation? Implications for Linguistics and Law" at [XPRAG.it](https://xpragit2026.weebly.com/).
+
 07/01/26 - I will be traveling to [ACL](https://2026.aclweb.org/) to present my paper "Sense and Sensitivity: 'Reasoning' Models are More Robust, but can Diverge from Human Consensus in a Legal Interpretation Task" at the [Conference on Computational Natural Language Learning](https://conll.org/).
 
 01/01/26 - I started a new position as a Fritz Postdoctoral Research Fellow in the [NERT](http://nert.georgetown.edu/) and [LegIT](https://legit.georgetown.edu/) labs at Georgetown University. 
